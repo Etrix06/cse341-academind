@@ -19,5 +19,13 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "pug": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etrix06/cse341-academind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Etrix06/cse341-academind/issues"
+  },
+  "homepage": "https://github.com/Etrix06/cse341-academind#readme"
 }
